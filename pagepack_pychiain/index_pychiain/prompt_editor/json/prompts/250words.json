@@ -1,0 +1,24 @@
+{
+  "file_name": "250words",
+  "status": "active",
+  "tags": "",
+  "notes": "Imported from pagepack-local lair markdown prompt.",
+  "prompt_body": "# 250words\n\n| Field | Value |\n|---|---|\n| **status** | draft |\n| **tags** | — |\n| **created_on** | 2026_03_19_05 |\n| **last_modified** | 2026_03_19_05 |\n| **usage_count** | 0 |\n| **pinned** | False |\n\n## Description — Expected\n\n*(empty)*\n\n## Description — Results\n\n*(empty)*\n\n## Notes\n\n*(empty)*\n\n---\n\n## Prompt Body\n\n*(empty)*",
+  "full_name_description": "250words",
+  "detailed_intent": "",
+  "observed_behavior": "",
+  "created_on": "2026-03-22T20:06:14",
+  "last_modified": "2026-03-22T20:06:29",
+  "pinned": false,
+  "usage_count": 0,
+  "internal_id": "16f01653-2cd9-4965-a61d-043c892fed2e",
+  "marker_header_notes": "",
+  "source_parent_group": "",
+  "easy_view_enabled_fields": [
+    "file_name",
+    "tags",
+    "notes",
+    "prompt_body"
+  ],
+  "machine_metadata": "{\n  \"source\": \"pagepack_local_lair_import\",\n  \"relative_md_path\": \"250words.md\"\n}"
+}

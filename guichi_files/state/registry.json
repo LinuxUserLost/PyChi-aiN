@@ -1,0 +1,251 @@
+{
+  "packs": [
+    {
+      "pack_id": "pagepack_chillama",
+      "source_path": "/home/min/Desktop/guichi_llama/pagepack_chillama",
+      "folder_name": "pagepack_chillama",
+      "display_suffix": "",
+      "status": "ok",
+      "hidden": false,
+      "pages": [
+        {
+          "page_id": "page_ollama_ui",
+          "page_name": "Ollama UI",
+          "page_path": "page_ollama_ui/ollama_ui_page.py",
+          "page_class": "AIInterface",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        }
+      ],
+      "warnings": [],
+      "errors": [],
+      "last_scanned": "2026-03-24T03:02:37.838008+00:00"
+    },
+    {
+      "pack_id": "pagepack_chitsheet",
+      "source_path": "/home/min/Desktop/guichi_llama/pagepack_chitsheet",
+      "folder_name": "pagepack_chitsheet",
+      "display_suffix": "",
+      "status": "ok",
+      "hidden": false,
+      "pages": [
+        {
+          "page_id": "archive_page",
+          "page_name": "archive_page",
+          "page_path": "archive_page/archive_page.py",
+          "page_class": "ArchivePage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "glossary_page",
+          "page_name": "glossary_page",
+          "page_path": "glossary_page/glossary_page.py",
+          "page_class": "GlossaryPage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "holding_page",
+          "page_name": "holding_page",
+          "page_path": "holding_page/holding_page.py",
+          "page_class": "HoldingPage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "phase_viewer_page",
+          "page_name": "phase_viewer_page",
+          "page_path": "phase_viewer_page/phase_viewer_page.py",
+          "page_class": "PhaseViewerPage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "rules_page",
+          "page_name": "rules_page",
+          "page_path": "rules_page/rules_page.py",
+          "page_class": "RulesPage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "source_trail_page",
+          "page_name": "source_trail_page",
+          "page_path": "source_trail_page/source_trail_page.py",
+          "page_class": "SourceTrailPage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "subprogram_checklist_page",
+          "page_name": "subprogram_checklist_page",
+          "page_path": "subprogram_checklist_page/subprogram_checklist_page.py",
+          "page_class": "SubprogramChecklistPage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "system_map_page",
+          "page_name": "system_map_page",
+          "page_path": "system_map_page/system_map_page.py",
+          "page_class": "SystemMapPage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        }
+      ],
+      "warnings": [],
+      "errors": [],
+      "last_scanned": "2026-03-24T03:02:37.841191+00:00"
+    },
+    {
+      "pack_id": "pagepack_pychiain",
+      "source_path": "/home/min/Desktop/guichi_llama/pagepack_pychiain",
+      "folder_name": "pagepack_pychiain",
+      "display_suffix": "",
+      "status": "ok",
+      "hidden": false,
+      "pages": [
+        {
+          "page_id": "page_prompt_editor",
+          "page_name": "prompt_editor",
+          "page_path": "page_prompt_editor/prompt_editor.py",
+          "page_class": "PagePromptEditor",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_prompt_mapper",
+          "page_name": "prompt_mapper",
+          "page_path": "page_prompt_mapper/prompt_mapper.py",
+          "page_class": "PagePromptMapper",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_chat",
+          "page_name": "chat",
+          "page_path": "page_chat/chat_page.py",
+          "page_class": "PageChat",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_button_editor",
+          "page_name": "button_editor",
+          "page_path": "page_button_editor/button_editor.py",
+          "page_class": "PageButtonEditor",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        }
+      ],
+      "warnings": [],
+      "errors": [],
+      "last_scanned": "2026-03-24T03:02:37.841482+00:00"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pack_id": "pagepack_pychiain",
+  "pages": [
+    {
+      "page_id": "page_prompt_editor",
+      "page_name": "prompt_editor",
+      "page_path": "page_prompt_editor/prompt_editor.py",
+      "page_class": "PagePromptEditor"
+    },
+    {
+      "page_id": "page_prompt_mapper",
+      "page_name": "prompt_mapper",
+      "page_path": "page_prompt_mapper/prompt_mapper.py",
+      "page_class": "PagePromptMapper"
+    },
+    {
+      "page_id": "page_chat",
+      "page_name": "chat",
+      "page_path": "page_chat/chat_page.py",
+      "page_class": "PageChat"
+    },
+    {
+      "page_id": "page_button_editor",
+      "page_name": "button_editor",
+      "page_path": "page_button_editor/button_editor.py",
+      "page_class": "PageButtonEditor"
+    }
+  ]
+}

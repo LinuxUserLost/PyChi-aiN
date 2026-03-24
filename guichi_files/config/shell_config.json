@@ -1,0 +1,13 @@
+{
+    "dev_mode": true,
+    "default_scan_style": 1,
+    "suppress_dev_warnings": false,
+    "last_selected_root": "/home/min/Desktop/guichi_llama",
+    "known_roots": [
+        "/home/claude/work/repair",
+        "/home/min/Desktop/guichi_llama"
+    ],
+    "left_sidebar_open": true,
+    "right_sidebar_open": false,
+    "toolbar_full": false
+}

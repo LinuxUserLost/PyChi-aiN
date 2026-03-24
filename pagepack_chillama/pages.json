@@ -1,0 +1,11 @@
+{
+  "pack_id": "pagepack_chillama",
+  "pages": [
+    {
+      "page_id": "page_ollama_ui",
+      "page_name": "Ollama UI",
+      "page_path": "page_ollama_ui/ollama_ui_page.py",
+      "page_class": "AIInterface"
+    }
+  ]
+}

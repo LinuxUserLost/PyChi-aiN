@@ -1,0 +1,37 @@
+{
+    "guishell_v2_checklist": {
+        "milestone_1": {
+            "name": "shell_sidepanel_control",
+            "status": "in_progress",
+            "targets": [
+                "left sidebar collapse and expand",
+                "right sidebar collapse and expand",
+                "custom shell toolbar with collapse behavior",
+                "jsondisplayer placeholder in right sidebar",
+                "same-sidepage duplication prevention",
+                "basic layout persistence"
+            ]
+        },
+        "completion_steps": [
+            "verify left sidebar open/collapse/reopen cycle",
+            "verify right sidebar open/collapse/reopen cycle",
+            "verify toolbar collapse to left-width and two-button minimum",
+            "verify toolbar full reopen",
+            "verify jsondisplayer loads and displays json content",
+            "verify persistence survives restart",
+            "verify same-sidepage guard blocks duplicate assignment"
+        ],
+        "possible_planning_errors": [
+            "toolbar collapse logic may need refinement for edge state combinations",
+            "vertical text rendering may vary across platforms and Tk versions",
+            "persistence could cause stale layout state if sidebar content changes between versions"
+        ],
+        "next_milestone_guidance": [
+            "sidewindow ecosystem formalization and discovery",
+            "sidewindow registration and lifecycle",
+            "interchangeable sidebar content loading",
+            "toolbar docking and mirrored layout options",
+            "responsive layout polish for multiple resolutions"
+        ]
+    }
+}

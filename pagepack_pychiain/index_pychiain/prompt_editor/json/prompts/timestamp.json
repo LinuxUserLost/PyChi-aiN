@@ -1,0 +1,20 @@
+{
+  "file_name": "timestamp",
+  "status": "imported_draft",
+  "tags": "",
+  "notes": "Imported from pagepack-local lair markdown prompt.",
+  "prompt_body": "# timestamp\n\n| Field | Value |\n|---|---|\n| **status** | draft |\n| **tags** | \u2014 |\n| **created_on** | 2026_03_17_20 |\n| **last_modified** | 2026_03_17_20 |\n| **usage_count** | 0 |\n| **pinned** | False |\n\n## Description \u2014 Expected\n\n*(empty)*\n\n## Description \u2014 Results\n\n*(empty)*\n\n## Notes\n\n*(empty)*\n\n---\n\n## Prompt Body\n\n*(empty)*",
+  "full_name_description": "timestamp",
+  "detailed_intent": "",
+  "observed_behavior": "",
+  "easy_view_enabled_fields": [
+    "file_name",
+    "tags",
+    "notes",
+    "prompt_body"
+  ],
+  "machine_metadata": {
+    "source": "pagepack_local_lair_import",
+    "relative_md_path": "timestamp.md"
+  }
+}
