@@ -1,8 +1,0 @@
-{
-  "id": "5495d158-79b7-4c5a-a4de-e2cc76dc9513",
-  "title": "Launch Github Gui_Shell",
-  "command": "cd /media/min/Claude/guichi_llama\ngit pull\ngrep -n 'label=\"Theme\"' guichi_files/shell_gui.py\npython3 guichi.py",
-  "notes": "",
-  "created_at": "2026-04-16T19:37:24",
-  "updated_at": "2026-04-16T19:38:12"
-}
