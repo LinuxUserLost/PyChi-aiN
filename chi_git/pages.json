@@ -1,0 +1,40 @@
+{
+  "pack_id": "pagepack_chigit",
+  "pages": [
+    {
+      "page_id": "page_syncdock",
+      "page_name": "ChiGit SyncDock",
+      "page_title": "ChiGit SyncDock",
+      "page_path": "page_syncdock/chigit_page.py",
+      "page_folder_path": "page_syncdock",
+      "page_config_path": "chigit_data/chigit_config.json",
+      "page_class": "ChiGitSyncDockPage"
+    },
+    {
+      "page_id": "page_sshdock",
+      "page_name": "ChiGit SSH Dock",
+      "page_title": "ChiGit SSH Dock",
+      "page_path": "page_sshdock/sshdock_page.py",
+      "page_folder_path": "page_sshdock",
+      "page_class": "ChiGitSSHDockPage"
+    },
+    {
+      "page_id": "page_branchledger",
+      "page_name": "ChiGit Branch Ledger",
+      "page_title": "ChiGit Branch Ledger",
+      "page_path": "page_branchledger/branchledger_page.py",
+      "page_folder_path": "page_branchledger",
+      "page_config_path": "chigit_data/branchledger_config.json",
+      "page_class": "ChiGitBranchLedgerPage"
+    },
+    {
+      "page_id": "page_worksession",
+      "page_name": "ChiGit WorkSession",
+      "page_title": "ChiGit WorkSession",
+      "page_path": "page_worksession/worksession_page.py",
+      "page_folder_path": "page_worksession",
+      "page_config_path": "chigit_data/worksession_config.json",
+      "page_class": "ChiGitWorkSessionPage"
+    }
+  ]
+}
