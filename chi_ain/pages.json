@@ -1,0 +1,35 @@
+{
+  "pack_id": "pagepack_pychiain",
+  "pages": [
+    {
+      "page_id": "page_prompt_workshop",
+      "page_name": "prompt_workshop",
+      "page_path": "page_promptworkshop/prompt_workshop.py",
+      "page_class": "PagePromptWorkshop"
+    },
+    {
+      "page_id": "page_markdown_notes",
+      "page_name": "markdown_notes",
+      "page_path": "page_mdnotes/mdnotes_page.py",
+      "page_class": "PageMdNotes"
+    },
+    {
+      "page_id": "page_chilaude_terminal",
+      "page_name": "chilaude_terminal",
+      "page_path": "page_chilaude_terminal/chilaude_terminal_page.py",
+      "page_class": "PageChilaudeTerminal"
+    },
+    {
+      "page_id": "page_claude_cli_wrap",
+      "page_name": "claude_cli_wrap",
+      "page_path": "page_claude_cli_wrap/claude_cli_wrap_page.py",
+      "page_class": "PageClaudeCliWrap"
+    },
+    {
+      "page_id": "page_ollama_ui",
+      "page_name": "ollama_ui",
+      "page_path": "page_ollama_ui/ollama_ui_page.py",
+      "page_class": "AIInterface"
+    }
+  ]
+}
