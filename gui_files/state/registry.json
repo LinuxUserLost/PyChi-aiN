@@ -1,0 +1,338 @@
+{
+  "packs": [
+    {
+      "pack_id": "pagepack_pychiain",
+      "source_path": "/media/min/Claude/pychi/chi_ain",
+      "folder_name": "chi_ain",
+      "display_suffix": "",
+      "status": "ok",
+      "hidden": false,
+      "pages": [
+        {
+          "page_id": "page_prompt_workshop",
+          "page_name": "prompt_workshop",
+          "page_path": "page_promptworkshop/prompt_workshop.py",
+          "page_class": "PagePromptWorkshop",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_markdown_notes",
+          "page_name": "markdown_notes",
+          "page_path": "page_mdnotes/mdnotes_page.py",
+          "page_class": "PageMdNotes",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_chilaude_terminal",
+          "page_name": "chilaude_terminal",
+          "page_path": "page_chilaude_terminal/chilaude_terminal_page.py",
+          "page_class": "PageChilaudeTerminal",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_claude_cli_wrap",
+          "page_name": "claude_cli_wrap",
+          "page_path": "page_claude_cli_wrap/claude_cli_wrap_page.py",
+          "page_class": "PageClaudeCliWrap",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_ollama_ui",
+          "page_name": "ollama_ui",
+          "page_path": "page_ollama_ui/ollama_ui_page.py",
+          "page_class": "AIInterface",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        }
+      ],
+      "warnings": [],
+      "errors": [],
+      "last_scanned": "2026-04-19T01:24:15.888722+00:00"
+    },
+    {
+      "pack_id": "pagepack_chigit",
+      "source_path": "/media/min/Claude/pychi/chi_git",
+      "folder_name": "chi_git",
+      "display_suffix": "",
+      "status": "ok",
+      "hidden": false,
+      "pages": [
+        {
+          "page_id": "page_syncdock",
+          "page_name": "ChiGit SyncDock",
+          "page_path": "page_syncdock/chigit_page.py",
+          "page_class": "ChiGitSyncDockPage",
+          "page_title": "ChiGit SyncDock",
+          "page_folder_path": "page_syncdock",
+          "page_config_path": "chigit_data/chigit_config.json",
+          "status": "ok",
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "page_id": "page_sshdock",
+          "page_name": "ChiGit SSH Dock",
+          "page_path": "page_sshdock/sshdock_page.py",
+          "page_class": "ChiGitSSHDockPage",
+          "page_title": "ChiGit SSH Dock",
+          "page_folder_path": "page_sshdock",
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_branchledger",
+          "page_name": "ChiGit Branch Ledger",
+          "page_path": "page_branchledger/branchledger_page.py",
+          "page_class": "ChiGitBranchLedgerPage",
+          "page_title": "ChiGit Branch Ledger",
+          "page_folder_path": "page_branchledger",
+          "page_config_path": "chigit_data/branchledger_config.json",
+          "status": "ok",
+          "warnings": [],
+          "errors": []
+        },
+        {
+          "page_id": "page_worksession",
+          "page_name": "ChiGit WorkSession",
+          "page_path": "page_worksession/worksession_page.py",
+          "page_class": "ChiGitWorkSessionPage",
+          "page_title": "ChiGit WorkSession",
+          "page_folder_path": "page_worksession",
+          "page_config_path": "chigit_data/worksession_config.json",
+          "status": "ok",
+          "warnings": [],
+          "errors": []
+        }
+      ],
+      "warnings": [],
+      "errors": [],
+      "last_scanned": "2026-04-19T01:24:15.888914+00:00"
+    },
+    {
+      "pack_id": "pagepack_chilos",
+      "source_path": "/media/min/Claude/pychi/chi_los",
+      "folder_name": "chi_los",
+      "display_suffix": "",
+      "status": "ok",
+      "hidden": false,
+      "pages": [
+        {
+          "page_id": "page_terminal_session",
+          "page_name": "terminal_session",
+          "page_path": "page_terminal_session/terminal_session_page.py",
+          "page_class": "PageTerminalSession",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_audio_router",
+          "page_name": "audio_router",
+          "page_path": "page_audio_router/audio_router_page.py",
+          "page_class": "PageAudioRouter",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "page_browserdock",
+          "page_name": "browserdock",
+          "page_path": "page_browserdock/browserdock_page.py",
+          "page_class": "PageBrowserdock",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        }
+      ],
+      "warnings": [],
+      "errors": [],
+      "last_scanned": "2026-04-19T01:24:15.889014+00:00"
+    },
+    {
+      "pack_id": "chiflippin0",
+      "source_path": "/media/min/Claude/pychi/chi_flippin0",
+      "folder_name": "chi_flippin0",
+      "display_suffix": "",
+      "status": "ok",
+      "hidden": false,
+      "pages": [
+        {
+          "page_id": "transporthub",
+          "page_name": "transporthub",
+          "page_path": "page_transporthub/transporthub_page.py",
+          "page_class": "TransportHubPage",
+          "page_title": "Transport Hub",
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "rpcinfo",
+          "page_name": "rpcinfo",
+          "page_path": "page_rpcinfo/rpcinfo_page.py",
+          "page_class": "RpcInfoPage",
+          "page_title": "RPC Info",
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "devboardtools",
+          "page_name": "devboardtools",
+          "page_path": "page_devboardtools/devboardtools_page.py",
+          "page_class": "DevboardToolsPage",
+          "page_title": "Devboard Tools",
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "bluetoothstatus",
+          "page_name": "bluetoothstatus",
+          "page_path": "page_bluetoothstatus/bluetoothstatus_page.py",
+          "page_class": "BluetoothStatusPage",
+          "page_title": "Bluetooth Status",
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        },
+        {
+          "page_id": "storagebrowser",
+          "page_name": "storagebrowser",
+          "page_path": "page_storagebrowser/storagebrowser_page.py",
+          "page_class": "StorageBrowserPage",
+          "page_title": "Storage Browser",
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        }
+      ],
+      "warnings": [],
+      "errors": [],
+      "last_scanned": "2026-04-19T01:24:15.889087+00:00"
+    },
+    {
+      "pack_id": "pagepack_chireader",
+      "source_path": "/media/min/Claude/pychi/chi_reader",
+      "folder_name": "chi_reader",
+      "display_suffix": "",
+      "status": "ok",
+      "hidden": false,
+      "pages": [
+        {
+          "page_id": "page_qwen_tts",
+          "page_name": "Qwen TTS",
+          "page_path": "page_qwen_tts/qwen_tts_page.py",
+          "page_class": "QwenTTSPage",
+          "page_title": null,
+          "page_folder_path": null,
+          "page_config_path": null,
+          "status": "ok",
+          "warnings": [
+            "optional field missing: page_title",
+            "optional field missing: page_folder_path",
+            "optional field missing: page_config_path"
+          ],
+          "errors": []
+        }
+      ],
+      "warnings": [],
+      "errors": [],
+      "last_scanned": "2026-04-19T01:24:15.889168+00:00"
+    }
+  ]
+}
