@@ -1,0 +1,8 @@
+{
+  "id": "accd4d91-eb70-4bfe-a7f2-2a2b01a70754",
+  "title": "Git Upload",
+  "command": "git push",
+  "notes": "Syntax:\n\ngit push = uploads your latest local commit to GitHub\nno extra arguments needed because origin/main is already tracked",
+  "created_at": "2026-04-16T21:12:21",
+  "updated_at": "2026-04-16T21:12:45"
+}

@@ -1,0 +1,23 @@
+{
+  "pack_id": "pagepack_chilos",
+  "pages": [
+    {
+      "page_id": "page_terminal_session",
+      "page_name": "terminal_session",
+      "page_path": "page_terminal_session/terminal_session_page.py",
+      "page_class": "PageTerminalSession"
+    },
+    {
+      "page_id": "page_audio_router",
+      "page_name": "audio_router",
+      "page_path": "page_audio_router/audio_router_page.py",
+      "page_class": "PageAudioRouter"
+    },
+    {
+      "page_id": "page_browserdock",
+      "page_name": "browserdock",
+      "page_path": "page_browserdock/browserdock_page.py",
+      "page_class": "PageBrowserdock"
+    }
+  ]
+}

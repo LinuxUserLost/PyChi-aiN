@@ -1,0 +1,21 @@
+{
+    "dev_mode": false,
+    "default_scan_style": 1,
+    "suppress_dev_warnings": false,
+    "last_selected_root": "/media/min/Claude/pychi",
+    "known_roots": [
+        "/home/claude/work/repair",
+        "/home/min/Desktop/guichi_llama",
+        "/home/min/Desktop/guichi_llama/pagepack_pychiain",
+        "/home/min/Desktop/guichi_llama/pagepack_pychiain/page_promptworkshop",
+        "/home/min/Desktop/guichi_llama/pagepack_pychilos",
+        "/media/min/Claude/guichi_llama/pagepack_browserdock",
+        "/media/min/Claude/guichi_llama",
+        "/media/min/Claude/guichi_llama/pagepack_chillama",
+        "/media/min/Claude/pychi"
+    ],
+    "left_sidebar_open": true,
+    "right_sidebar_open": false,
+    "toolbar_full": true,
+    "current_theme": "matrix"
+}

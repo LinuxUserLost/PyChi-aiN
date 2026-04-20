@@ -1,0 +1,8 @@
+{
+  "id": "a4698bc1-9555-4feb-893b-090443659b9c",
+  "title": "Git Snapshot",
+  "command": "git add .",
+  "notes": "snapshot of current directory",
+  "created_at": "2026-04-16T21:05:30",
+  "updated_at": "2026-04-16T21:09:54"
+}

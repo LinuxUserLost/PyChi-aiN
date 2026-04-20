@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "tools": [
+    {
+      "name": "Natural Reader",
+      "url": "https://www.naturalreaders.com/online/",
+      "category": "general",
+      "browser": "default",
+      "mode": "normal",
+      "profile": "",
+      "notes": ""
+    }
+  ]
+}
